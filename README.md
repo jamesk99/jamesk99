@@ -1,5 +1,5 @@
 - Hi, I’m @jamesk99
-- I’m interested in Artificial Intelligence, Deep Learning, Metabolic Physiology, and Molecular Biology
+- I’m interested in Artificial Intelligence, Deep Learning, Metabolic Physiology, and Molecular Biology.
 - I’m currently learning about the integration of AI/ML in healthcare and medical research.
 
 <!---
