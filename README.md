@@ -1,5 +1,5 @@
 - Hi, I’m @jamesk99 and I am interested in data, science, and technology.
-- Specic domains of interest are: Artificial Intelligence, Deep Learning, Metabolic Physiology, and Molecular Biology to name a few.
+- Specific domains of interest - Artificial Intelligence, Deep Learning, Metabolic Physiology, and Molecular Biology.
 - I’m currently learning about the integration of AI/ML in healthcare and medical research.
 
 <!---
